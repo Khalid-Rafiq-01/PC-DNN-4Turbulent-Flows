@@ -40,7 +40,7 @@ The Loss Function is taken as the mean squared of three error terms - 1.Two mome
 
 ![Part 7](https://github.com/Khalid-Rafiq-01/PC-DNN-4Turbulent-Flows/blob/main/Images/hugginface_model.gif)
 
-Visit the app on [Khalid Rafiq HuggingFace](https://huggingface.co/spaces/krafiq/deep-neural-networks-for-navier-stokes-equations"HuggingFace") to draw any shape and test my model! 
+Visit the app on [HuggingFace](https://huggingface.co/spaces/krafiq/deep-neural-networks-for-navier-stokes-equations) to draw any shape and test my model! 
 
 ## Credits
 
