@@ -44,4 +44,4 @@ Visit the app on [HuggingFace](https://huggingface.co/spaces/krafiq/deep-neural-
 
 ## Credits
 
-This case is adapted from the example described by **Mateus Dias Ribeiro** and collaborators in [DeepCFD](https://arxiv.org/abs/2004.08826"DeepCFD").
+This case is adapted from the example described by **Mateus Dias Ribeiro** and collaborators in [DeepCFD](https://arxiv.org/abs/2004.08826).
